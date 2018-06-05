@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextAndEmoji", "TextAndEmoji.csproj", "{C74ACB21-27E7-B4AA-30D5-8B2C2B19E2CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextAndEmoji.Editor", "TextAndEmoji.Editor.csproj", "{86C56057-7EFC-1CEC-8DD0-65A76F570888}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C74ACB21-27E7-B4AA-30D5-8B2C2B19E2CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C74ACB21-27E7-B4AA-30D5-8B2C2B19E2CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C74ACB21-27E7-B4AA-30D5-8B2C2B19E2CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C74ACB21-27E7-B4AA-30D5-8B2C2B19E2CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86C56057-7EFC-1CEC-8DD0-65A76F570888}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C56057-7EFC-1CEC-8DD0-65A76F570888}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C56057-7EFC-1CEC-8DD0-65A76F570888}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C56057-7EFC-1CEC-8DD0-65A76F570888}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

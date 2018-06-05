@@ -1,0 +1,3072 @@
+fileFormatVersion: 2
+guid: 77d24325cf8dd234bb11beba2b2492cf
+timeCreated: 1527222284
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: emoji_lxh_0
+    21300002: emoji_lxh_2
+    21300004: emoji_lxh_3
+    21300006: emoji_lxh_4
+    21300008: emoji_lxh_11
+    21300010: emoji_lxh_12
+    21300012: emoji_lxh_13
+    21300014: emoji_lxh_14
+    21300016: emoji_lxh_15
+    21300018: emoji_lxh_16
+    21300020: emoji_lxh_18
+    21300022: emoji_lxh_26
+    21300024: emoji_lxh_27
+    21300026: emoji_lxh_28
+    21300028: emoji_lxh_29
+    21300030: emoji_lxh_30
+    21300032: emoji_lxh_31
+    21300034: emoji_lxh_32
+    21300036: emoji_lxh_33
+    21300038: emoji_lxh_37
+    21300040: emoji_lxh_38
+    21300042: emoji_lxh_39
+    21300044: emoji_lxh_43
+    21300046: emoji_lxh_44
+    21300048: emoji_lxh_45
+    21300050: emoji_lxh_46
+    21300052: emoji_lxh_47
+    21300054: emoji_lxh_48
+    21300056: emoji_lxh_49
+    21300058: emoji_lxh_50
+    21300060: emoji_lxh_51
+    21300062: emoji_lxh_52
+    21300064: emoji_lxh_53
+    21300066: emoji_lxh_54
+    21300068: emoji_lxh_55
+    21300070: emoji_lxh_56
+    21300072: emoji_lxh_57
+    21300074: emoji_lxh_58
+    21300076: emoji_lxh_59
+    21300078: emoji_lxh_60
+    21300080: emoji_lxh_61
+    21300082: emoji_lxh_62
+    21300084: emoji_lxh_63
+    21300086: emoji_lxh_64
+    21300088: emoji_lxh_65
+    21300090: emoji_lxh_66
+    21300092: emoji_lxh_67
+    21300094: emoji_lxh_68
+    21300096: emoji_lxh_69
+    21300098: emoji_lxh_70
+    21300100: emoji_lxh_71
+    21300102: emoji_lxh_72
+    21300104: emoji_lxh_73
+    21300106: emoji_lxh_74
+    21300108: emoji_lxh_75
+    21300110: emoji_lxh_76
+    21300112: emoji_lxh_77
+    21300114: emoji_lxh_78
+    21300116: emoji_lxh_79
+    21300118: emoji_lxh_80
+    21300120: emoji_lxh_81
+    21300122: emoji_lxh_82
+    21300124: emoji_lxh_83
+    21300126: emoji_lxh_84
+    21300128: emoji_lxh_85
+    21300130: emoji_lxh_86
+    21300132: emoji_lxh_87
+    21300134: emoji_lxh_88
+    21300136: emoji_lxh_89
+    21300138: emoji_lxh_90
+    21300140: emoji_lxh_91
+    21300142: emoji_lxh_92
+    21300144: emoji_lxh_93
+    21300146: emoji_lxh_94
+    21300148: emoji_lxh_95
+    21300150: emoji_lxh_96
+    21300152: emoji_lxh_97
+    21300154: emoji_lxh_98
+    21300156: emoji_lxh_99
+    21300158: emoji_lxh_100
+    21300160: emoji_lxh_101
+    21300162: emoji_lxh_102
+    21300164: emoji_lxh_103
+    21300166: emoji_lxh_104
+    21300168: emoji_lxh_105
+    21300170: emoji_lxh_106
+    21300172: emoji_lxh_107
+    21300174: emoji_lxh_108
+    21300176: emoji_lxh_109
+    21300178: emoji_lxh_110
+    21300180: emoji_lxh_111
+    21300182: emoji_lxh_112
+    21300184: emoji_lxh_113
+    21300186: emoji_lxh_114
+    21300188: emoji_lxh_115
+    21300190: emoji_lxh_116
+    21300192: emoji_lxh_117
+    21300194: emoji_lxh_118
+    21300196: emoji_lxh_119
+    21300198: emoji_lxh_120
+    21300200: emoji_lxh_121
+    21300202: emoji_lxh_122
+    21300204: emoji_lxh_123
+    21300206: emoji_lxh_124
+    21300208: emoji_lxh_125
+    21300210: emoji_lxh_126
+    21300212: emoji_lxh_127
+    21300214: emoji_lxh_128
+    21300216: emoji_lxh_129
+    21300218: emoji_lxh_130
+    21300220: emoji_lxh_131
+    21300222: emoji_lxh_132
+    21300224: emoji_lxh_133
+    21300226: emoji_lxh_134
+    21300228: emoji_lxh_135
+    21300230: emoji_lxh_136
+    21300232: emoji_lxh_137
+    21300234: emoji_lxh_138
+    21300236: emoji_lxh_139
+    21300238: emoji_lxh_140
+    21300240: emoji_lxh_141
+    21300242: emoji_lxh_142
+    21300244: emoji_lxh_143
+    21300246: emoji_lxh_144
+    21300248: emoji_lxh_145
+    21300250: emoji_lxh_146
+    21300252: emoji_lxh_147
+    21300254: emoji_lxh_148
+    21300256: emoji_lxh_149
+    21300258: emoji_lxh_150
+    21300260: emoji_lxh_151
+    21300262: emoji_lxh_152
+    21300264: emoji_lxh_153
+    21300266: emoji_lxh_154
+    21300268: emoji_lxh_155
+    21300270: emoji_lxh_156
+    21300272: emoji_lxh_157
+    21300274: emoji_lxh_158
+    21300276: emoji_lxh_159
+    21300278: emoji_lxh_160
+    21300280: emoji_lxh_161
+    21300282: emoji_lxh_162
+    21300284: emoji_lxh_163
+    21300286: emoji_lxh_164
+    21300288: emoji_lxh_165
+    21300290: emoji_lxh_166
+    21300292: emoji_lxh_167
+    21300294: emoji_lxh_168
+    21300296: emoji_lxh_169
+    21300298: emoji_lxh_170
+    21300300: emoji_lxh_171
+    21300302: emoji_lxh_172
+    21300304: emoji_lxh_173
+    21300306: emoji_lxh_174
+    21300308: emoji_lxh_175
+    21300310: emoji_lxh_176
+    21300312: emoji_lxh_177
+    21300314: emoji_lxh_178
+    21300316: emoji_lxh_179
+    21300318: emoji_lxh_180
+    21300320: emoji_lxh_181
+    21300322: emoji_lxh_182
+    21300324: emoji_lxh_183
+    21300326: emoji_lxh_184
+    21300328: emoji_lxh_185
+    21300330: emoji_lxh_186
+    21300332: emoji_lxh_187
+    21300334: emoji_lxh_188
+    21300336: emoji_lxh_189
+    21300338: emoji_lxh_190
+    21300340: emoji_lxh_191
+    21300342: emoji_lxh_192
+    21300344: emoji_lxh_193
+    21300346: emoji_lxh_194
+    21300348: emoji_lxh_195
+    21300350: emoji_lxh_196
+    21300352: emoji_lxh_197
+    21300354: emoji_lxh_198
+    21300356: emoji_lxh_199
+    21300358: emoji_lxh_200
+    21300360: emoji_lxh_201
+    21300362: emoji_lxh_202
+    21300364: emoji_lxh_203
+    21300366: emoji_lxh_204
+    21300368: emoji_lxh_205
+    21300370: emoji_lxh_206
+    21300372: emoji_lxh_207
+    21300374: emoji_lxh_208
+    21300376: emoji_lxh_209
+    21300378: emoji_lxh_210
+    21300380: emoji_lxh_211
+    21300382: emoji_lxh_212
+    21300384: emoji_lxh_213
+    21300386: emoji_lxh_214
+    21300388: emoji_lxh_215
+    21300390: emoji_lxh_216
+    21300392: emoji_lxh_217
+    21300394: emoji_lxh_218
+    21300396: emoji_lxh_1
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: emoji_lxh_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2001
+        width: 97
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 94, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_2
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1982
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_3
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1903
+        width: 78
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_4
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1981
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1903
+        width: 108
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_12
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 1896
+        width: 80
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_13
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1896
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_14
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1903
+        width: 63
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_15
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1903
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_16
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1903
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_18
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1903
+        width: 89
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_26
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1802
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_27
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1812
+        width: 76
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_28
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 1811
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_29
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1811
+        width: 80
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_30
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1825
+        width: 85
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_31
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1812
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_32
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 1811
+        width: 79
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_33
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1807
+        width: 86
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_37
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 1704
+        width: 197
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_38
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1702
+        width: 100
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_39
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1704
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1702
+        width: 99
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_44
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1704
+        width: 100
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_45
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1704
+        width: 101
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1599
+        width: 800
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_47
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1571
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_48
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1507
+        width: 86
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_49
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1571
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_50
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 1571
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_51
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1570
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_52
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1573
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_53
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1571
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_54
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1573
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_55
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 1571
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_56
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1507
+        width: 79
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_57
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1507
+        width: 89
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_58
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1506
+        width: 82
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_59
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1507
+        width: 87
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_60
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1507
+        width: 87
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_61
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1507
+        width: 88
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_62
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 1507
+        width: 84
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_63
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1407
+        width: 72
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_64
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 1407
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_65
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1407
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_66
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1407
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_67
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1407
+        width: 72
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_68
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1407
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_69
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 1407
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_70
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1407
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1308
+        width: 198
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_72
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1308
+        width: 99
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_73
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 1308
+        width: 200
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_74
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 1308
+        width: 199
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_75
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1308
+        width: 98
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_76
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1218
+        width: 92
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_77
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1218
+        width: 91
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_78
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1219
+        width: 91
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_79
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1218
+        width: 89
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_80
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1219
+        width: 89
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_81
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 1219
+        width: 90
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_82
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 1219
+        width: 92
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_83
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 1218
+        width: 91
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1111
+        width: 76
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_85
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1112
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_86
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 1111
+        width: 93
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_87
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1111
+        width: 93
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_88
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 1112
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_89
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1111
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_90
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1111
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_91
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1104
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_92
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1104
+        width: 86
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_93
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 1103
+        width: 84
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_94
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 1111
+        width: 69
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_95
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1116
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_96
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1103
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_97
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1105
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_98
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1103
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_99
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1104
+        width: 14
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_100
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1105
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_101
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1005
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_102
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 1005
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_103
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 1005
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_104
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1005
+        width: 69
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_105
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1005
+        width: 71
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_106
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1005
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_107
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 1005
+        width: 72
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_108
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1005
+        width: 67
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 913
+        width: 92
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_110
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 913
+        width: 90
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_111
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 913
+        width: 92
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_112
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 968
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_113
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 913
+        width: 88
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_114
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 968
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_115
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 913
+        width: 89
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_116
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 963
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_117
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 913
+        width: 89
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_118
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 972
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_119
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 913
+        width: 94
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_120
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 973
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_121
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 913
+        width: 95
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_122
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 975
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_123
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 813
+        width: 87
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_124
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 813
+        width: 91
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_125
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 812
+        width: 91
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_126
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 812
+        width: 87
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_127
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 812
+        width: 89
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_128
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 813
+        width: 86
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_129
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 812
+        width: 89
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_130
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 813
+        width: 88
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_131
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 771
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_132
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 770
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_133
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 772
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_134
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 771
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_135
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 775
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_136
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 775
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_137
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 770
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_138
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 778
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_139
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 771
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_140
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 767
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_141
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 770
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_142
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 765
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_143
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 767
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_144
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 711
+        width: 68
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_145
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 711
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_146
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 711
+        width: 75
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_147
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 711
+        width: 74
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_148
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 762
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_149
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 711
+        width: 67
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_150
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 711
+        width: 68
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_151
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 711
+        width: 69
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_152
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 711
+        width: 69
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 610
+        width: 88
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_154
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 607
+        width: 79
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_155
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 607
+        width: 85
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_156
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 609
+        width: 94
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_157
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 610
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_158
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 611
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_159
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 610
+        width: 92
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_160
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 614
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_161
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 609
+        width: 74
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_162
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 507
+        width: 71
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_163
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 507
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_164
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 507
+        width: 76
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_165
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 507
+        width: 67
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_166
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 507
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_167
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 507
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_168
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 507
+        width: 65
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_169
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 507
+        width: 69
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_170
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 409
+        width: 66
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_171
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 411
+        width: 64
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_172
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 406
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_173
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 409
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_174
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 406
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_175
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 408
+        width: 64
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_176
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 406
+        width: 69
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_177
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 408
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_178
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 299
+        width: 73
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_179
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 302
+        width: 70
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_180
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 396
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_181
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 302
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_182
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 299
+        width: 73
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_183
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 302
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_184
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 302
+        width: 70
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_185
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 302
+        width: 76
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_186
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 302
+        width: 71
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_187
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 278
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_188
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 217
+        width: 80
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_189
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 267
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_190
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 216
+        width: 85
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_191
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 275
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_192
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 282
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_193
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 217
+        width: 79
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_194
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 216
+        width: 81
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_195
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 269
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_196
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 216
+        width: 84
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_197
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 217
+        width: 79
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_198
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 216
+        width: 78
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_199
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 248
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_200
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 217
+        width: 83
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_201
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 101
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_202
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 108
+        width: 99
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_203
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 102
+        width: 99
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_204
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 101
+        width: 98
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_205
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 101
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_206
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 102
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_207
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 108
+        width: 98
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_208
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 102
+        width: 96
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_209
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 102
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_210
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 102
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_211
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 800
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_212
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 2002
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_213
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 2004
+        width: 99
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_214
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1996
+        width: 101
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 3, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_215
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1996
+        width: 96
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_216
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1999
+        width: 104
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 3, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_217
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1999
+        width: 99
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_218
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 2002
+        width: 100
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: emoji_lxh_1
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 1701
+        width: 97
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
